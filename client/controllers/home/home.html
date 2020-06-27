@@ -1,0 +1,19 @@
+<div class="home">
+    <div class="home-wrapper">
+        <h1 class="header">Tumblr App</h1>
+        <h3 class="description">Enter the Tumblr blog name to see their posts!</h3>
+        <form class="search-container" ng-submit="getPosts()">
+            <input type="text" 
+                class="search-input" 
+                ng-change="clearErrorAndLoading()" 
+                ng-model="blogId">
+            <p class="search-trail">.tumblr.com</p>
+        </form>
+        <button class="search-cta" ng-click="getPosts()">Load Blog</button>
+        <div class="posts-container" ng-if="posts.length">
+            <post data="data" ng-repeat="data in posts"></post>        
+        </div>
+        <p class="posts-loading" ng-if="loading">Loading...</p>
+        <p class="posts-error" ng-if="error">Cannot load posts with the username {{blogId}}</p>
+    </div>
+</div>

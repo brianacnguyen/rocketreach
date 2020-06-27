@@ -1,0 +1,13 @@
+@import "directives/post/post.css";
+@import "controllers/home/home.css";
+
+body {
+    margin: 0;
+    background-color: #f6f8fa;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

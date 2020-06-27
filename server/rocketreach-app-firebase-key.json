@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rocketreach-app",
+  "private_key_id": "4d1de222cb89b9c5447b960e72767972d4e9dee4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCycwcd+iMdUSsh\nyzJtv5SB4A3oKictWUwwdc36v2KZaoSoh1tQdpDY9yYKg96CpCq3kvWlW3GMu70B\n+V9hvn9Giv9DG2FuyfHZuUxLw5ydwbcwR6G2SLgFPLqIthbML1Tq8gJzhhUe6SyO\n1WzUUen+YoiraQ6zRp450u3a0Pb4YaMjKXuYe3mHMwQoZUVDNP+BItEw97b7D9WV\n8Jwwtd3/4rSI55x67U+hZ/YejbHUtMmY/WdVr+hE0pfZdjZ7dFlXHLPI6QNcQNaJ\nT1QfH9048f7HG59oP5ybMNFCCZTEVuJ/AgLNOO1bRR9HGoYP6JqWlXx2W4WhQvJy\ncpi5RYU/AgMBAAECggEACCYPNHk6/UMQRdIc6BIQMAC74dbQRIEyuiEcWiTp1bjy\n0ddMfizL3ycktOTiAPPfgikoenfl2YKr1i6TAnL2e5GBUokqNoBA66uge501G6cV\nkb4o+O/yfJq8pzLZcP2AUoeL68aQVFcFfTLrGKRHm8wtaCu7S3MgFTfikKlrfbAJ\nfQSGttn3Bd28kEI42u6mU/arM2k+c1DXXBncQKnRXx6RwQSf4rDQjMtiPTE7XEXT\nYTGUzN691M/iV1wnG/21EiGd66gBMHaxpQKTvymYz7XywMWkjZ5AQnpAdtI0Lsf5\nlYsXef4TK6oiIoYJ5AQRVllUJKZSxowad/PbfsMToQKBgQDhOPTYcqxXTMjkaG+8\nM4tNeJfvxkBDmuX7I7XL3UzmAPyI3Td4tkCe8VMZVyl3guepbENp6UTV+t9EVMxI\nGuQgKJfpY24wGSjs9ViRrqFuyhI5rJ92zPRzF0cVP5KVxXFe7EhyAE7US4rfaOQZ\nBP7siuLIMYtmcM+lVAj5MjjsKQKBgQDK1cnKCYWijmjGjtj7pXYl619wfnel2tW8\nXmTBn++cCv6BBTCpReXXKIfqBGZnldk+02Uh4gy+YaQ+T7MD+obk2cXa/y1sLAHG\ns7WuutueKwCitfegJOQfW+R220lJnlWLFcZsfqcpR54m1Vu+eW/sOljmSNJzvqkp\nwagdys6TJwKBgQCcIxpLPCSSWR8kiep8dNdsG+BpT+2ZcLdjhfwwmvkGs0Rftc0R\nGHhwOCk99hk/SzdDU1ThBeC837EM9CSzEEF6semu2Um4epjOvcBrLr+nyNsdtLjQ\naYJGj6qt5ma/AiR4hCItNl1v+/cIrvUDC12XqylRVFep6ydpHHskF1czEQKBgDTW\nXCp1MIqX7lNLAtsKzywxlDsJtsFNsD/Rlw2ZTCGp+4JAh9yQiL7zn/QmEUcKkfz7\ntGyPJiKx7McOm+N9b4ZN9GyH7J0xGYVZawqJQoyBRzkbjdX5xjMlDO6pUP4McNw6\nX+YDWCg4r8oN6khD+hPfXykd7zSXhhmKiPC50/YhAoGBANvnfr+OoTgYmQHBfnWO\n0uB2AZjVoq1nBEVQPfU95BtVJm1RjjhcumiDIkW2PO7+JMuE1jr/GbL6zqRCmO7q\n/wqnfXgA7hsN5pAwS18D851cTq6GFojILLeuJ3UXicn7SIiHG/Po8T5M6zt9Ides\noRzIaINUrMO3VAcydRzIy98h\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-noxgc@rocketreach-app.iam.gserviceaccount.com",
+  "client_id": "107821951732835694555",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-noxgc%40rocketreach-app.iam.gserviceaccount.com"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "rocketreach-app",
+  "version": "1.0.0",
+  "description": "A simple Tumblr app",
+  "main": "client/app.js",
+  "scripts": {
+    "postinstall": "./node_modules/bower/bin/bower install",
+    "start": "node server/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bower": "1.8.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "firebase": "^3.0.2",
+    "firebase-admin": "^8.12.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  },
+  "engines": {
+    "node": "8.13.0"
+  }
+}
